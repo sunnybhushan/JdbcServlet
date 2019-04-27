@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Project7pm/src/org/jspider/config/system.properties&apos; to &apos;properties.properties&apos;" description="Rename resource &apos;system.properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/org/jspider/config/system.properties" name="properties.properties" stamp="1550238670619" updateReferences="true"/>
+</session>

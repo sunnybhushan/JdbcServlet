@@ -1,0 +1,1017 @@
+!SESSION 2019-04-24 00:22:19.420 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data D:\jee-2018-12\programe -product org.eclipse.epp.package.jee.product
+
+This is a continuation of log file D:\jee-2018-12\programe\.metadata\.bak_0.log
+Created Time: 2019-04-24 00:23:36.061
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.061
+!MESSAGE project JdbcFetchOnly ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.061
+!MESSAGE project JdbcFetchOnly SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.061
+!MESSAGE project JdbcMultipleRecord ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.077
+!MESSAGE project JdbcMultipleRecord SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.077
+!MESSAGE project JdbcMultiplerRecPreparedStmt ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.077
+!MESSAGE project JdbcMultiplerRecPreparedStmt SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.077
+!MESSAGE project JdbcScannerId ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.092
+!MESSAGE project JdbcScannerId SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.092
+!MESSAGE project JdbcScannerName ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.092
+!MESSAGE project JdbcScannerName SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.092
+!MESSAGE project JdbcSingleRecord ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.092
+!MESSAGE project Kotnala ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.108
+!MESSAGE project Kotnala SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.108
+!MESSAGE project NewSpring ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.108
+!MESSAGE project NewSpring SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.108
+!MESSAGE project Programming ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.124
+!MESSAGE project Programming SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.124
+!MESSAGE project Project7pm ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.124
+!MESSAGE project Project7pm SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.124
+!MESSAGE project Project_pro7pm ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.124
+!MESSAGE project Project_pro7pm SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.139
+!MESSAGE project Servers ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.139
+!MESSAGE project Servers SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.139
+!MESSAGE project Servlet1 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.139
+!MESSAGE project Servlet2 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.155
+!MESSAGE project ServletLifeCycle ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.155
+!MESSAGE project Session_Project ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.155
+!MESSAGE project Session_Project SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.155
+!MESSAGE project SpringProject ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.170
+!MESSAGE project SpringProject SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.170
+!MESSAGE project Transation ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.170
+!MESSAGE project Transation SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.170
+!MESSAGE project demo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.186
+!MESSAGE project demo SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.186
+!MESSAGE project firstt ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.186
+!MESSAGE project firstt SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.186
+!MESSAGE project jdbclogin ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.186
+!MESSAGE project org.Google.gmail.InboxApp ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.202
+!MESSAGE project org.Google.gmail.InboxApp SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.202
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.202
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.dbrzbHSr => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.202
+!MESSAGE executing callback sts4.classpath.dbrzbHSr SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.217
+!MESSAGE Preparing classpath changed notification jdbclogin
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.217
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.233
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.233
+!MESSAGE executing callback sts4.classpath.dbrzbHSr jdbclogin false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.249
+!MESSAGE executing callback sts4.classpath.dbrzbHSr SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.249
+!MESSAGE Preparing classpath changed notification ServletLifeCycle
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.249
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.264
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.264
+!MESSAGE executing callback sts4.classpath.dbrzbHSr ServletLifeCycle false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.280
+!MESSAGE executing callback sts4.classpath.dbrzbHSr SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.280
+!MESSAGE Preparing classpath changed notification Servlet2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.280
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.311
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.311
+!MESSAGE executing callback sts4.classpath.dbrzbHSr Servlet2 false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.311
+!MESSAGE executing callback sts4.classpath.dbrzbHSr SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.327
+!MESSAGE Preparing classpath changed notification Servlet1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.327
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.327
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.342
+!MESSAGE executing callback sts4.classpath.dbrzbHSr Servlet1 false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.342
+!MESSAGE executing callback sts4.classpath.dbrzbHSr SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.358
+!MESSAGE Preparing classpath changed notification JdbcSingleRecord
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.358
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.374
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.374
+!MESSAGE executing callback sts4.classpath.dbrzbHSr JdbcSingleRecord false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.389
+!MESSAGE executing callback sts4.classpath.dbrzbHSr SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.389
+!MESSAGE Preparing classpath changed notification JdbcFetch
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.389
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.405
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.405
+!MESSAGE executing callback sts4.classpath.dbrzbHSr JdbcFetch false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.420
+!MESSAGE executing callback sts4.classpath.dbrzbHSr SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.436
+!MESSAGE Preparing classpath changed notification JdbcDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.436
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.452
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.452
+!MESSAGE executing callback sts4.classpath.dbrzbHSr JdbcDemo false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.467
+!MESSAGE executing callback sts4.classpath.dbrzbHSr SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.483
+!MESSAGE Preparing classpath changed notification IncludeServlet
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.483
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.499
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.499
+!MESSAGE executing callback sts4.classpath.dbrzbHSr IncludeServlet false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.514
+!MESSAGE executing callback sts4.classpath.dbrzbHSr SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.514
+!MESSAGE Preparing classpath changed notification ForwardServlet
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.514
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.530
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.530
+!MESSAGE executing callback sts4.classpath.dbrzbHSr ForwardServlet false 21
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.545
+!MESSAGE executing callback sts4.classpath.dbrzbHSr SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.545
+!MESSAGE Preparing classpath changed notification BatchStmt
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.545
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.545
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.561
+!MESSAGE executing callback sts4.classpath.dbrzbHSr BatchStmt false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:23:36.561
+!MESSAGE executing callback sts4.classpath.dbrzbHSr SUCCESS [done]
+
+!ENTRY org.eclipse.ui 4 0 2019-04-24 00:27:20.284
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.e4.core.di.InjectionException: java.lang.NullPointerException
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:68)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler$1.run(UIEventObjectSupplier.java:67)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:147)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4580)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:219)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:64)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:233)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setVisible(UIElementImpl.java:349)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.updateVisibility(ContributionRecord.java:113)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:194)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:205)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerShowProcessor.showMenu(MenuManagerShowProcessor.java:258)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerShowProcessor.menuAboutToHide(MenuManagerShowProcessor.java:115)
+	at org.eclipse.jface.internal.MenuManagerEventHelper.showEventPostHelper(MenuManagerEventHelper.java:95)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:474)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:468)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:500)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:259)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1055)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1060)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5148)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4797)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:348)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1502)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2153)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4770)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:253)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:3985)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3541)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:563)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:151)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:595)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1501)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.tm4e.ui.internal.menus.ThemeContribution.getContributionItems(ThemeContribution.java:59)
+	at org.eclipse.ui.actions.CompoundContributionItem.getContributionItemsToFill(CompoundContributionItem.java:83)
+	at org.eclipse.ui.actions.CompoundContributionItem.fill(CompoundContributionItem.java:57)
+	at org.eclipse.ui.internal.menus.DynamicMenuContributionItem.fill(DynamicMenuContributionItem.java:150)
+	at org.eclipse.jface.action.MenuManager.doItemFill(MenuManager.java:731)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:813)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:672)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.scheduleManagerUpdate(MenuManagerRenderer.java:1222)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.subscribeUIElementTopicAllRenderedVisibility(MenuManagerRenderer.java:203)
+	at sun.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	... 64 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:33:08.045
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.dbrzbHSr
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:33:08.076
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.dbrzbHSr
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:33:08.076
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-24 00:33:08.091
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.dbrzbHSr => OK
+!SESSION 2019-04-24 01:07:01.195 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data D:\jee-2018-12\programe -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2019-04-24 01:07:44.632
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-04-24 01:07:44.632
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5feaafb3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@20a46227,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface.text 2 0 2019-04-24 01:08:10.249
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-04-24 01:08:13.363
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Sunny Bhushan'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-04-26 22:44:10.380 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data D:\jee-2018-12\programe -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2019-04-26 22:44:16.618
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-04-26 22:44:16.618
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1cc42abe,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6f071d0c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface.text 2 0 2019-04-26 22:44:26.220
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-04-26 22:44:26.524
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Sunny Bhushan'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:42.077
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:42.082
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2a4bf853[org.springframework.tooling.boot.ls:1.6.0.201904170912(id=1070)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:42.088
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:42.188
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.844
+!MESSAGE Boot LS startup time from start to initialized: 4736ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.878
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.migTZnnl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.884
+!MESSAGE subscribing to classpath changes: sts4.classpath.migTZnnl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.890
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.895
+!MESSAGE subsribers = [sts4.classpath.migTZnnl]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.900
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.908
+!MESSAGE project Servlet1 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.914
+!MESSAGE project 12Dummy ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.918
+!MESSAGE Preparing classpath changed notification Servlet1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.923
+!MESSAGE project 12Dummy SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.927
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.931
+!MESSAGE project BatchStmt ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.937
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.941
+!MESSAGE project CodeForServletJDBC ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.945
+!MESSAGE executing callback sts4.classpath.migTZnnl Servlet1 false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.949
+!MESSAGE project CookiesProject ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.957
+!MESSAGE project CookiesProject SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.963
+!MESSAGE project DataStructure ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.967
+!MESSAGE project DataStructure SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.975
+!MESSAGE project First ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.982
+!MESSAGE project First SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.988
+!MESSAGE project ForwardServlet ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.992
+!MESSAGE project Google ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:46.996
+!MESSAGE project Google SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.003
+!MESSAGE project IncludeServlet ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.007
+!MESSAGE project JdbcComp ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.012
+!MESSAGE project JdbcComp SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.016
+!MESSAGE project JdbcDeleteQuery ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.020
+!MESSAGE project JdbcDeleteQuery SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.024
+!MESSAGE project JdbcDemo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.028
+!MESSAGE project JdbcFetch ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.031
+!MESSAGE project JdbcFetchOnly ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.035
+!MESSAGE project JdbcFetchOnly SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.039
+!MESSAGE project JdbcMultipleRecord ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.042
+!MESSAGE project JdbcMultipleRecord SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.046
+!MESSAGE project JdbcMultiplerRecPreparedStmt ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.050
+!MESSAGE project JdbcMultiplerRecPreparedStmt SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.054
+!MESSAGE project JdbcScannerId ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.058
+!MESSAGE project JdbcScannerId SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.061
+!MESSAGE project JdbcScannerName ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.065
+!MESSAGE project JdbcScannerName SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.069
+!MESSAGE project JdbcSingleRecord ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.073
+!MESSAGE project Kotnala ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.076
+!MESSAGE project Kotnala SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.080
+!MESSAGE project NewSpring ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.084
+!MESSAGE project NewSpring SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.087
+!MESSAGE project Programming ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.091
+!MESSAGE project Programming SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.095
+!MESSAGE project Project7pm ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.098
+!MESSAGE project Project7pm SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.102
+!MESSAGE project Project_pro7pm ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.105
+!MESSAGE project Project_pro7pm SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.109
+!MESSAGE project Servers ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.113
+!MESSAGE project Servers SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.117
+!MESSAGE project Servlet2 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.121
+!MESSAGE project ServletLifeCycle ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.125
+!MESSAGE project Session_Project ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.129
+!MESSAGE project Session_Project SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.133
+!MESSAGE project SpringProject ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.137
+!MESSAGE project SpringProject SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.141
+!MESSAGE project Transation ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.145
+!MESSAGE project Transation SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.149
+!MESSAGE project demo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.154
+!MESSAGE project demo SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.158
+!MESSAGE project firstt ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.161
+!MESSAGE project firstt SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.165
+!MESSAGE project jdbclogin ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.169
+!MESSAGE project org.Google.gmail.InboxApp ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.173
+!MESSAGE project org.Google.gmail.InboxApp SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.177
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.181
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.migTZnnl => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.185
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.191
+!MESSAGE Preparing classpath changed notification jdbclogin
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.195
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.201
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.204
+!MESSAGE executing callback sts4.classpath.migTZnnl jdbclogin false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.212
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.220
+!MESSAGE Preparing classpath changed notification ServletLifeCycle
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.231
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.236
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.240
+!MESSAGE executing callback sts4.classpath.migTZnnl ServletLifeCycle false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.251
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.257
+!MESSAGE Preparing classpath changed notification Servlet2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.261
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.267
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.271
+!MESSAGE executing callback sts4.classpath.migTZnnl Servlet2 false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.325
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.343
+!MESSAGE Preparing classpath changed notification JdbcSingleRecord
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.356
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.374
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.400
+!MESSAGE executing callback sts4.classpath.migTZnnl JdbcSingleRecord false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.422
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.434
+!MESSAGE Preparing classpath changed notification JdbcFetch
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.443
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.458
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.465
+!MESSAGE executing callback sts4.classpath.migTZnnl JdbcFetch false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.491
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.496
+!MESSAGE Preparing classpath changed notification JdbcDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.502
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.508
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.513
+!MESSAGE executing callback sts4.classpath.migTZnnl JdbcDemo false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.525
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.537
+!MESSAGE Preparing classpath changed notification IncludeServlet
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.543
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.552
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.557
+!MESSAGE executing callback sts4.classpath.migTZnnl IncludeServlet false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.567
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.574
+!MESSAGE Preparing classpath changed notification ForwardServlet
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.580
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.586
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.591
+!MESSAGE executing callback sts4.classpath.migTZnnl ForwardServlet false 21
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.602
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.609
+!MESSAGE Preparing classpath changed notification CodeForServletJDBC
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.614
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.621
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.626
+!MESSAGE executing callback sts4.classpath.migTZnnl CodeForServletJDBC false 21
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.635
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.641
+!MESSAGE Preparing classpath changed notification BatchStmt
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.646
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.653
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.658
+!MESSAGE executing callback sts4.classpath.migTZnnl BatchStmt false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:47.667
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.350
+!MESSAGE Preparing classpath changed notification ForwardServlet
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.356
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.365
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.371
+!MESSAGE executing callback sts4.classpath.migTZnnl ForwardServlet false 21
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.384
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.407
+!MESSAGE Preparing classpath changed notification jdbclogin
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.417
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.426
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.431
+!MESSAGE executing callback sts4.classpath.migTZnnl jdbclogin false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.440
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.447
+!MESSAGE Preparing classpath changed notification ServletLifeCycle
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.451
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.458
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.462
+!MESSAGE executing callback sts4.classpath.migTZnnl ServletLifeCycle false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.473
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.480
+!MESSAGE Preparing classpath changed notification Servlet2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.486
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.492
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.497
+!MESSAGE executing callback sts4.classpath.migTZnnl Servlet2 false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.503
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.512
+!MESSAGE Preparing classpath changed notification Servlet1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.516
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.522
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.526
+!MESSAGE executing callback sts4.classpath.migTZnnl Servlet1 false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.537
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.541
+!MESSAGE Preparing classpath changed notification JdbcSingleRecord
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.546
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.552
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.557
+!MESSAGE executing callback sts4.classpath.migTZnnl JdbcSingleRecord false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.566
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.571
+!MESSAGE Preparing classpath changed notification JdbcFetch
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.578
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.584
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.589
+!MESSAGE executing callback sts4.classpath.migTZnnl JdbcFetch false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.596
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.603
+!MESSAGE Preparing classpath changed notification JdbcDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.609
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.614
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.620
+!MESSAGE executing callback sts4.classpath.migTZnnl JdbcDemo false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.629
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.635
+!MESSAGE Preparing classpath changed notification IncludeServlet
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.641
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.649
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.653
+!MESSAGE executing callback sts4.classpath.migTZnnl IncludeServlet false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.660
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.665
+!MESSAGE Preparing classpath changed notification CodeForServletJDBC
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.670
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.676
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.681
+!MESSAGE executing callback sts4.classpath.migTZnnl CodeForServletJDBC false 21
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.694
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.703
+!MESSAGE Preparing classpath changed notification BatchStmt
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.707
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.713
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.717
+!MESSAGE executing callback sts4.classpath.migTZnnl BatchStmt false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 22:44:59.722
+!MESSAGE executing callback sts4.classpath.migTZnnl SUCCESS [done]
+
+!ENTRY org.eclipse.wst.server.core 4 0 2019-04-26 22:48:26.413
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 23:50:09.550
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.migTZnnl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 23:50:09.578
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.migTZnnl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 23:50:09.590
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-26 23:50:09.606
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.migTZnnl => OK
